@@ -1,0 +1,2 @@
+outcome,state_rep,action_rep,cate_estimator,p_wins,prop_lb,AUTOC_val_t1,AUTOC_val_t2,AUTOC_se_val_t1,AUTOC_se_val_t2,AUTOC_test_t1,AUTOC_test_t2,AUTOC_se_test_t1,AUTOC_se_test_t2
+delta_in_range_fw_7d,Raw (TS2Vec) (+3w lags in control covars),Binary (any),Ensemble,0.05,0.01,-0.0007565507497049438,-0.0007565507497049438,0.0015386282074865067,0.0015386282074865067,0.0038559508374349984,0.0038559508374349984,0.0016850459344297404,0.0016850459344297404

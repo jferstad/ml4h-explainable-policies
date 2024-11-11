@@ -1,0 +1,2 @@
+outcome,state_rep,action_rep,cate_estimator,p_wins,prop_lb,AUTOC_val_t1,AUTOC_val_t2,AUTOC_se_val_t1,AUTOC_se_val_t2,AUTOC_test_t1,AUTOC_test_t2,AUTOC_se_test_t1,AUTOC_se_test_t2
+delta_in_range_fw_7d,Raw (UMAP) (+1w lags in control covars),Binary (any),SLearner,0.05,0.01,0.001099067876284846,0.001099067876284846,0.0010941361069480766,0.0010941361069480766,-0.0019200388669884118,-0.0019200388669884118,0.0016164797666374082,0.0016164797666374082

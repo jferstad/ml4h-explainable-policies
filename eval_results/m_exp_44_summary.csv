@@ -1,0 +1,2 @@
+outcome,state_rep,action_rep,cate_estimator,p_wins,prop_lb,AUTOC_val_t1,AUTOC_val_t2,AUTOC_se_val_t1,AUTOC_se_val_t2,AUTOC_test_t1,AUTOC_test_t2,AUTOC_se_test_t1,AUTOC_se_test_t2
+delta_in_range_fw_7d,Expert (full),Binary (any),XLearner,0.05,0.01,-0.0013155400354748562,-0.0013155400354748562,0.001580295680178681,0.001580295680178681,-0.0011701903797925613,-0.0011701903797925613,0.0014496371595124741,0.0014496371595124741

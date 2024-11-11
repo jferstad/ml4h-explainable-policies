@@ -1,0 +1,2 @@
+outcome,state_rep,action_rep,cate_estimator,p_wins,prop_lb,AUTOC_val_t1,AUTOC_val_t2,AUTOC_se_val_t1,AUTOC_se_val_t2,AUTOC_test_t1,AUTOC_test_t2,AUTOC_se_test_t1,AUTOC_se_test_t2
+delta_in_range_fw_7d,TIDE (+3w lags in control covars),Binary (any),DRForest,0.05,0.01,0.00018373389998036407,0.00018373389998036407,0.001578476318389282,0.001578476318389282,-0.0004085813314410788,-0.0004085813314410788,0.0016623720701902042,0.0016623720701902042
